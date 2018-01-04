@@ -8,8 +8,8 @@ Another major goal is to document the techniques and strategies that are conduci
 
 Some of these are:
 
-Strict control of vocabulary (introduction of new words)
-Use of pictures
-Circling questioning
+Strict control of vocabulary (introduction of new words),
+Use of pictures,
+Circling questioning, etc
 
 
