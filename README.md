@@ -40,5 +40,5 @@ Other projects from which we draw inspiration are:
 * Modify the scripts to work with epub files. Find a library to do so.
 * Create the plots with gnuplot.
 * Create the scripts to download the corpora.
-..* Torify them to protect the users.
+··* Torify them to protect the users.
 * Add links to inspiring projects.
