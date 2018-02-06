@@ -37,6 +37,9 @@ Other projects from which we draw inspiration are:
 
 ## TODO
 
+* Find public domain stories, better if they are written in several languages (parallel texts)
+** https://www.grimmstories.com/
+* Find the minimum amount of words needed to begin reading the easiest books in the corpus
 * Modify the scripts to work with epub files. Find a library to do so.
 * Create the plots with gnuplot.
 * Create the scripts to download the corpora.
