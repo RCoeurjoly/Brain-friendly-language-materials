@@ -35,6 +35,15 @@ Other projects from which we draw inspiration are:
 * TPRS (Total Physical Response Storytelling or alternatively Teaching Proficiency through Reading and Storytelling)
 * ALG (Automatic Language Growth)
 
+## STATUS
+At the moment, to analyze a corpus, you have to follow a cumbersome process:
+* Download a bunch of books, preferably in epub format
+* Convert them to plain text (using scripts found in this repo)
+** This can take up to one week (tested in 4G RAM laptop)
+* Open a LibreOffice spreadsheet
+* Execute macros (found in this repo)
+
+
 ## TODO
 
 * Find public domain stories, better if they are written in several languages (parallel texts)
@@ -45,3 +54,5 @@ Other projects from which we draw inspiration are:
 * Create the scripts to download the corpora.
 ··* Torify them to protect the users.
 * Add links to inspiring projects.
+* Maybe separate the language materials from the corpus analysis?
+** Possible name for corpus: Metatron
